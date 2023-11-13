@@ -4,7 +4,7 @@
 
 <image src="https://pic4.zhimg.com/v2-da3853cc1f373e9af570b7a8fe372da7_r.gif" align="center" alt="GIF" />
 
-<h2 align="center"><image src="./assets/hello.gif" alt="GIF" width="24px" /> Hi! This is zhihao</h2>
+<h2 align="center"> Hi! This is zhihao</h2>
 
 <div align="center">
 
