@@ -50,6 +50,6 @@
 
 <div align="right">
 
-<a href="https://https://juejin.cn/user/2291826942022296">访问我的主页看看吧</a>
+<a href="https://juejin.cn/user/2291826942022296">访问我的主页看看吧</a>
 
 </div>
