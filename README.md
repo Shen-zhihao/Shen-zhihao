@@ -21,7 +21,9 @@
 <div >
 
 💬 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/"><image src="https://img.shields.io/static/v1?label=JavaScript&message=HANDY&style=for-the-badge&labelColor=FFFFFF&logo=javascript&color=3178C6" align="center" />
-<a href="https://www.typescriptlang.org/"><image src="https://img.shields.io/static/v1?label=TypeScript&message=HANDY&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6" align="center" />
+&nbsp;
+<a href="https://www.typescriptlang.org/"><image src="https://img.shields.io/static/v1?label=TypeScript&message=HANDY&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=4578C6" align="center" />
+&nbsp;
 <a href="https://reactjs.org/"><image src="https://img.shields.io/static/v1?label=Web&message=handy&style=for-the-badge&labelColor=FFFFFF&logo=react&color=61DAFB" align="center" /></a>
 
 </div>
