@@ -35,21 +35,3 @@
 🗄 <a href="https://www.mysql.com/"><image src="https://img.shields.io/static/v1?label=MySQL&message=Familiar&style=for-the-badge&labelColor=FFFFFF&logo=mysql&color=4479A1" align="center" /></a>
 
 </div>
-
-&nbsp;
-
-<div align="center">
-
-<a href="https://royrao2333.github.io/blog">🧑🏻‍💻 技术博客</a>
-
-<image src="https://user-images.githubusercontent.com/31413093/187115164-3c1e5a43-64bc-44cd-a145-593a35b53513.GIF" align="center" alt="GIF" height="100px" />
-
-</div>
-
-&nbsp;
-
-<div align="right">
-
-<a href="https://juejin.cn/user/2291826942022296">访问我的主页看看吧</a>
-
-</div>
