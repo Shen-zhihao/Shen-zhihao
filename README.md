@@ -16,18 +16,6 @@
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/RoyRao2333">
-<image src="https://readmestats.999857.xyz/api?username=royrao2333&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" height="170px" />
-</a>
-
-<a href="https://github.com/RoyRao2333">
-<image src="https://readmestats.999857.xyz/api/top-langs/?username=royrao2333&layout=compact" height="170px" />
-</a>
-
-</div>
-
 ## 🛠 技术栈 | Tech Stack
 
 <div >
